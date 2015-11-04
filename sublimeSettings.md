@@ -52,11 +52,15 @@ Terminal
 BufferScroll
 
 **Useful Shortcuts**
+```
 Cmd+D		Select next match of selection
 Cmd+Ctrl+G	Select all matches of selection
+```
 
-	**Emmet**
-	Ctrl+D		Select everything inside current tag, including the tag. Addition key presses expand selection to next parent
-	Cmd+Shift+K	Edit current tag/current parent tag
-	Ctrl+W		Enclose selection in tags
-	Cmd+'		Delete current tag and its pair
+**Emmet**
+```
+Ctrl+D		Select everything inside current tag, including the tag. Addition key presses expand selection to next parent
+Cmd+Shift+K	Edit current tag/current parent tag
+Ctrl+W		Enclose selection in tags
+Cmd+'		Delete current tag and its pair
+```

@@ -1,0 +1,21 @@
+<snippet>
+    <content>
+<![CDATA[
+@include media($mobile) {
+    {$1}
+};
+@include media($tablet) {
+    {$2}
+};
+@include media($laptop) {
+    {$3}
+};
+@include media($desktop) {
+    {$4}
+};
+]]>
+    </content>
+    <tabTrigger>n-media</tabTrigger>
+    <scope>source.css, source.scss</scope>
+    <description>Neat Media Queries</description>
+</snippet>

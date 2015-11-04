@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+<![CDATA[
+@include shift({$1});
+]]>
+    </content>
+    <tabTrigger>n-shift</tabTrigger>
+    <scope>source.css, source.scss</scope>
+    <description>Neat Shift</description>
+</snippet>

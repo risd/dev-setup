@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+<![CDATA[
+@include span-columns({$1} of {$2});
+]]>
+    </content>
+    <tabTrigger>n-span</tabTrigger>
+    <scope>source.css, source.scss</scope>
+    <description>Neat Span Columns</description>
+</snippet>

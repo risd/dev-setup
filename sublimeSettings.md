@@ -30,6 +30,7 @@
 *`cmd+option+t` will convert all indentation to tabs*
 
 **list of packages**
+```
 All Autocomplete
 AutoFileName
 BracketHighlighter
@@ -50,6 +51,7 @@ Swig
 Takana
 Terminal
 BufferScroll
+```
 
 **Useful Shortcuts**
 ```

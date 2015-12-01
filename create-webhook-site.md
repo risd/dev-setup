@@ -1,7 +1,8 @@
 **If a repo doens't exist**
 
 Start by creating a repo on GitHub under the *Media Account*  
-Initialize the repo with a `README` through the Github prompt.
+Initialize the repo with a `README` through the Github prompt  
+Clone the repo
 
 
 **Else, if a repo is already created**

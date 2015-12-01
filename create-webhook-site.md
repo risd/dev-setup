@@ -12,7 +12,7 @@ git clone repo-name
 
 **If a webhook instance *is* initiated in the repo**
 ```
-cd wh-repo
+cd repo-name
 npm install
 wh init repo-name
 wh serve
@@ -21,7 +21,7 @@ wh serve
 
 **Else, if a webhook instance *isn't* initiated in the repo**
 ```
-cd wh-repo
+cd repo-name
 wh create
 wh serve
 ```

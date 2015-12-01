@@ -23,5 +23,8 @@ wh serve
 ```
 cd repo-name
 wh create risd-repo-name
+```
+Use the mgdevelopers@risd.edu account  
+```
 wh serve
 ```

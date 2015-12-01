@@ -2,12 +2,11 @@
 
 Start by creating a repo on GitHub under the *Media Account*  
 Initialize the repo with a `README` through the Github prompt  
-Clone the repo
 
 
-**Else, if a repo is already created**
+**Once the repo is created, or if a repo already exists**
 ```
-git clone wh-repo
+git clone repo-name
 ```
 
 
@@ -15,7 +14,7 @@ git clone wh-repo
 ```
 cd wh-repo
 npm install
-wh init name-of-wh-repo
+wh init repo-name
 wh serve
 ```
 

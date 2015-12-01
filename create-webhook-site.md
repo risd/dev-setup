@@ -22,6 +22,6 @@ wh serve
 **Else, if a webhook instance *isn't* initiated in the repo**
 ```
 cd repo-name
-wh create
+wh create risd-repo-name
 wh serve
 ```

@@ -3,15 +3,6 @@ Start by creating a repo on GitHub under the *Media Account*
 *Do not* create a README file when prompted by Github  
 
 
-**If a webhook instance *is* initiated in the repo**
-```
-cd repo-name
-npm install
-wh init repo-name
-wh serve
-```
-
-
 **Else, if a webhook instance *isn't* initiated in the repo**  
 `cd` to the folder where you store your websites and `wh create risd-repo-name`  
 *Use the mgdevelopers@risd.edu account credentials*  

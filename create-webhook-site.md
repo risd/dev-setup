@@ -6,7 +6,7 @@ Initialize the repo with a `README` through the Github prompt
 
 **Once the repo is created, or if a repo already exists**
 ```
-git clone repo-name
+git clone repo-url
 ```
 
 

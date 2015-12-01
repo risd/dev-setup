@@ -1,5 +1,4 @@
-**If a repo doens't exist**
-
+**If a repo doens't exist**  
 Start by creating a repo on GitHub under the *Media Account*  
 *Do not* create a README file when prompted by Github  
 

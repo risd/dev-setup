@@ -1,0 +1,148 @@
+# Your snippets
+#
+# Atom snippets allow you to enter a simple prefix in the editor and hit tab to
+# expand the prefix into a larger code block with templated values.
+#
+# You can create a new snippet in this file by typing "snip" and then hitting
+# tab.
+#
+# An example CoffeeScript snippet to expand log to console.log:
+#
+# '.source.coffee':
+#   'Console log':
+#     'prefix': 'log'
+#     'body': 'console.log $1'
+#
+# This file uses CoffeeScript Object Notation (CSON).
+# If you are unfamiliar with CSON, you can read more about it here:
+# https://github.com/bevry/cson#what-is-cson
+#
+'.source.scss':
+  'Neat Media':
+    'prefix': 'n-media'
+    'body': """
+      @include media($mobile) {
+        $1
+      };
+      @include media($tablet) {
+        $2
+      };
+      @include media($laptop) {
+        $3
+      };
+      @include media($desktop) {
+        $4
+      };
+    """
+  'Neat Span Columns':
+    'prefix': 'n-span'
+    'body': """
+      @include span-columns($1 of $2);
+    """
+  'Neat Outer Container':
+    'prefix': 'n-outer'
+    'body': """
+      @include outer-container($1);
+    """
+  'Neat Last Item':
+    'prefix': 'n-last'
+    'body': """
+      @include omega;
+    """
+  'Neat Offset':
+    'prefix': 'n-shift'
+    'body': """
+      @include shift($1);
+    """
+  'Neat Media Outer':
+    'prefix': 'n-m-outer'
+    'body': """
+      @include media($mobile) {
+        @include outer-container($1);
+      };
+      @include media($tablet) {
+        @include outer-container($2);
+      };
+    """
+  'Neat Media Span':
+    'prefix': 'n-m-span'
+    'body': """
+      @include media($mobile) {
+        @include span-columns($1 of $2);
+      };
+      @include media($tablet) {
+        @include span-columns($3 of $4);
+      };
+      @include media($laptop) {
+        @include span-columns($5 of $6);
+      };
+      @include media($desktop) {
+        @include span-columns($7 of $8);
+      };
+    """
+'.source.css':
+  'Neat Media':
+    'prefix': 'n-media'
+    'body': """
+      @include media($mobile) {
+        $1
+      };
+      @include media($tablet) {
+        $2
+      };
+      @include media($laptop) {
+        $3
+      };
+      @include media($desktop) {
+        $4
+      };
+    """
+  'Neat Span Columns':
+    'prefix': 'n-span'
+    'body': """
+      @include span-columns($1 of $2);
+    """
+  'Neat Outer Container':
+    'prefix': 'n-outer'
+    'body': """
+      @include outer-container($1);
+    """
+  'Neat Last Item':
+    'prefix': 'n-last'
+    'body': """
+      @include omega;
+    """
+  'Neat Media Outer':
+    'prefix': 'n-m-outer'
+    'body': """
+      @include media($mobile) {
+        @include outer-container($1);
+      };
+      @include media($tablet) {
+        @include outer-container($2);
+      };
+    """
+  'Neat Media Span':
+    'prefix': 'n-m-span'
+    'body': """
+      @include media($mobile) {
+        @include span-columns($1 of $2);
+      };
+      @include media($tablet) {
+        @include span-columns($3 of $4);
+      };
+      @include media($laptop) {
+        @include span-columns($5 of $6);
+      };
+      @include media($desktop) {
+        @include span-columns($7 of $8);
+      };
+    """
+'.text.html.swig':
+  'JSON script':
+    'prefix': 'log'
+    'body': """
+      <script>
+        console.log({{$1|json|safe}});
+      </script>
+    """

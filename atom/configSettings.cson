@@ -1,0 +1,40 @@
+"*":
+  "SFTP-deployment": {}
+  "atom-beautify":
+    _analyticsUserId: "43cdd27a-ac66-4269-9650-a603318d5b12"
+    css_newline_between_rules: true
+    css_selector_separator_newline: true
+    html_end_with_newline: true
+    html_indent_inner_html: true
+    language_erb_default_beautifier: "Pretty Diff"
+  "atom-color-highlight": {}
+  "autocomplete-plus":
+    confirmCompletion: "enter"
+  core:
+    audioBeep: false
+    destroyEmptyPanes: false
+    disabledPackages: [
+      "language-SCSS"
+    ]
+  "drag-drop-text": {}
+  editor:
+    fontFamily: "Input Mono"
+    invisibles: {}
+    lineHeight: 1.6
+    showIndentGuide: true
+    softWrap: true
+  emmet: {}
+  "exception-reporting":
+    userId: "a38189dd-d7f1-d57b-9842-b31767c5a5eb"
+  "file-types":
+    html: "text.html.swig"
+  "find-and-replace":
+    focusEditorAfterSearch: false
+  "git-plus": {}
+  linter: {}
+  "markdown-preview": {}
+  "merge-conflicts": {}
+  tabs: {}
+  "terminal-status": {}
+  welcome:
+    showOnStartup: false

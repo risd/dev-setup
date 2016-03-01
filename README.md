@@ -1,2 +1,2 @@
 # snippets
-Snippets and Instructions for the RISD Media Group
+Recommended snippets and settings for Atom and Sublime text

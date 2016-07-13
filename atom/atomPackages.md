@@ -1,4 +1,4 @@
-**Package List**  
+# Package List
 Sublime-Style-Column-Selection  
 atom-beautify  
 atom-bourbon-snippets  

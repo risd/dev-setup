@@ -1,5 +1,8 @@
 # Dev setup for the Media Group at RISD
 
+- [Resetting Permissions](#resetting-permissions)
+- [Oh My Zsh](#oh-my-zsh)
+
 ## Resetting permissions
 The permission settings are probably going to give you problems when installing things to follow, so to reset them:
 ```

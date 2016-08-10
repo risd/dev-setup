@@ -2,6 +2,16 @@
 
 - [Resetting Permissions](#resetting-permissions)
 - [Oh My Zsh](#oh-my-zsh)
+- [xCode](#xcode-and-xcode-command-line-tools)
+- [Homebrew](#homebrew)
+- [Node](#nodejs)
+- [Node Version Manager](#node-version-manager)
+- [Sass](#sass)
+- [Prototype Deployment](#rm-deploy)
+- [Webhook CMS](#webhook)
+- [Git Flow](#git-flow)
+- [Git Aliases](#git-aliases)
+- [Text Editors](#text-editors)
 
 ## Resetting permissions
 The permission settings are probably going to give you problems when installing things to follow, so to reset them:

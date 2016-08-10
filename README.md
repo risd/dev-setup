@@ -1,5 +1,6 @@
 # Dev setup for the Media Group at RISD
 
+## Table of Contents
 - [Resetting Permissions](#resetting-permissions)
 - [Oh My Zsh](#oh-my-zsh)
 - [xCode](#xcode-and-xcode-command-line-tools)

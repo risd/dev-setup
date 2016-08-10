@@ -124,7 +124,5 @@ https://atom.io/
 ### Sublime Text
 https://www.sublimetext.com/  
 
-The settings and snippets for how I've set both those text editors up can be found here https://github.com/risd/snippets
-
 ### Snippets
 The folders in this repo contain snippets and settings for the 2 text editors we use.
